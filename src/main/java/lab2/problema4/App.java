@@ -36,7 +36,7 @@ public class App {
 			Transaccion t = new Transaccion(monto, origen);
 
 			for (String d : destinos) {
-				String monedaDestino = d.trim(); // Limpia espacios accidentales
+				String monedaDestino = d.trim();
 				double resultado = Conversor.realizarConversion(monto, origen, monedaDestino);
 				t.agregarConversion(monedaDestino, resultado);
 			}

@@ -4,6 +4,8 @@
 - Gina Sofia Garcia Zapata
 - Juan Diego Patino Munoz
 
+![tree](imagenes/tree.png)
+
 *Descripción:*
 El objetivo de este reto fue auditar y rediseñar el sistema de una casa de cambio que anteriormente estafaba a sus clientes usando una tasa de cambio única para todas las divisas. El nuevo sistema permite:
 
@@ -35,3 +37,4 @@ Robustez de Entrada: Se integró una limpieza de búfer mediante sc.nextLine() p
 
 ![input](imagenes/in.jpeg)
 ![output](imagenes/out.jpeg)
+![test](imagenes/test.png)
