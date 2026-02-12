@@ -33,5 +33,5 @@ Procesamiento Funcional (Streams): Se utilizó flatMap para extraer todas las co
 
 Robustez de Entrada: Se integró una limpieza de búfer mediante sc.nextLine() para permitir ciclos repetitivos de entrada de datos sin errores de desbordamiento en el Scanner.
 
-![input](imagenes/in.jpgen)
-![output](imagenes/out.jpgen)
+![input](imagenes/in.jpeg)
+![output](imagenes/out.jpeg)
